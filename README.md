@@ -1,6 +1,6 @@
 # project_database
 
-A new Flutter project.
+Creating a Database using a Crossplatform bulider.
 
 ## Getting Started
 
